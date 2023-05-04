@@ -1,2 +1,6 @@
 # Upcoming-Fieldwork-Map
 This is a map that shows the upcoming environmental fieldwork in Florida, specifically related to underground storage tanks, and PFAS.
+
+This application is composed of two parts, a python script and javascript. The Python code grabs the latest data from the Florida Information Portal on the latest fliedwork notices sent to the Florida Department of Environmental Protection (FDEP). This code is run from the console and the user inputs the start date and the end date for the range of fieldwork notices. when this information is downloaded in a csv format, the code loops through each row of data and calls to the FDEP open data portal to retrieve additional information on the facility including the x,y coordinates of the facility and adds it to the csv file. This program could be modified to automatically get a set date range without user input. 
+
+The second part of the program is JavaScript and is heavily reliant on LeafletJS and Papaparse. The Javascript parses the csv file and loops through the entries ones by one and plots the location on a map which is placed on your webpage with an html tag with a specific id. The additional relevent information for each location is added to a popup card that is bound to the location marker. If the webuser clicks the location on the map it will show the infomation card. 
