@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Output of the old console script.
+DocumentSearchResults*.csv
