@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-08T15:58:37+00:00",
+ "generated": "2026-11-09T19:50:34+00:00",
  "window": {
-  "from": "2026-10-25",
-  "to": "2026-11-08"
+  "from": "2026-10-26",
+  "to": "2026-11-09"
  },
- "facility_count": 364,
- "document_count": 699,
+ "facility_count": 365,
+ "document_count": 705,
  "missing_coordinates": 0,
  "by_county": {
   "DUVAL": 39,
@@ -14,8 +14,8 @@
   "BROWARD": 17,
   "LEON": 16,
   "ORANGE": 15,
+  "POLK": 15,
   "MARION": 14,
-  "POLK": 14,
   "PALM BEACH": 13,
   "MIAMI-DADE": 10,
   "PASCO": 9,
@@ -176,7 +176,7 @@
     {
      "date": "2026-11-03",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5251734.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5251732.1"
     },
     {
      "date": "2026-11-03",
@@ -1053,7 +1053,7 @@
     {
      "date": "2026-11-02",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250826.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250831.1"
     },
     {
      "date": "2026-11-02",
@@ -4075,12 +4075,12 @@
     {
      "date": "2026-11-05",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5253625.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5253623.1"
     },
     {
      "date": "2026-11-05",
      "subject": "C825AE - TASK # 2 - FIELD WORK NOTICE",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5253622.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5253624.1"
     }
    ],
    "lat": 30.419668,
@@ -6090,6 +6090,16 @@
    "county": "PINELLAS",
    "documents": [
     {
+     "date": "2026-11-09",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254618.1"
+    },
+    {
+     "date": "2026-11-09",
+     "subject": "C6FB9B - TASK # 3 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254617.1"
+    },
+    {
      "date": "2026-11-02",
      "subject": "PRP SUBMISSION CONFIRMATION",
      "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250291.1"
@@ -6547,6 +6557,27 @@
    "lon": -81.869635
   },
   {
+   "id": "9063907",
+   "name": "AL'S COIN LAUNDRIES INC",
+   "address": "236 S 1ST ST",
+   "city": "LAKE WALES",
+   "county": "POLK",
+   "documents": [
+    {
+     "date": "2026-11-09",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254616.1"
+    },
+    {
+     "date": "2026-11-09",
+     "subject": "C6AE90 - TASK # 5 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254615.1"
+    }
+   ],
+   "lat": 27.89805,
+   "lon": -81.589917
+  },
+  {
    "id": "8623822",
    "name": "ARIANA DISCOUNT BEVERAGE",
    "address": "315 RAMS GATE RD",
@@ -6719,7 +6750,7 @@
     {
      "date": "2026-11-04",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252391.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252386.1"
     },
     {
      "date": "2026-11-04",
@@ -6976,7 +7007,7 @@
     {
      "date": "2026-11-02",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250355.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250346.1"
     },
     {
      "date": "2026-11-02",
@@ -7015,6 +7046,16 @@
    "city": "FORT PIERCE",
    "county": "ST. LUCIE",
    "documents": [
+    {
+     "date": "2026-11-09",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254620.1"
+    },
+    {
+     "date": "2026-11-09",
+     "subject": "C733E0 - TASK # 4 - FIELD NOTIFICATION GW",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254619.1"
+    },
     {
      "date": "2026-11-02",
      "subject": "PRP SUBMISSION CONFIRMATION",
@@ -7360,12 +7401,12 @@
     {
      "date": "2026-11-04",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252100.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252058.1"
     },
     {
      "date": "2026-11-04",
      "subject": "C820BF - TASK # 2 - FIELD NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252057.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252099.1"
     }
    ],
    "lat": 29.037921,
