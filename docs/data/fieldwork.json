@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-15T16:22:29+00:00",
+ "generated": "2026-11-16T19:37:14+00:00",
  "window": {
-  "from": "2026-11-01",
-  "to": "2026-11-15"
+  "from": "2026-11-02",
+  "to": "2026-11-16"
  },
- "facility_count": 351,
- "document_count": 690,
+ "facility_count": 350,
+ "document_count": 688,
  "missing_coordinates": 0,
  "by_county": {
   "DUVAL": 43,
   "PINELLAS": 25,
   "HILLSBOROUGH": 20,
-  "POLK": 19,
   "BROWARD": 18,
+  "POLK": 18,
   "MARION": 16,
   "ORANGE": 16,
   "LEON": 14,
@@ -203,7 +203,7 @@
     {
      "date": "2026-11-03",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5251734.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5251732.1"
     },
     {
      "date": "2026-11-03",
@@ -607,7 +607,7 @@
     {
      "date": "2026-11-02",
      "subject": "FIELD WORK NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250476.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257533.1"
     }
    ],
    "lat": 26.155112,
@@ -1018,7 +1018,7 @@
     {
      "date": "2026-11-02",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250826.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250831.1"
     },
     {
      "date": "2026-11-02",
@@ -1502,7 +1502,7 @@
     {
      "date": "2026-11-11",
      "subject": "FIELD WORK NOTICE - FIELDWORK NOTIFICATION ONLY",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5256788.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5256783.1"
     },
     {
      "date": "2026-11-09",
@@ -2207,7 +2207,7 @@
     {
      "date": "2026-11-09",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254644.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254763.1"
     },
     {
      "date": "2026-11-09",
@@ -4070,12 +4070,12 @@
     {
      "date": "2026-11-05",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5253623.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5253625.1"
     },
     {
      "date": "2026-11-05",
      "subject": "C825AE - TASK # 2 - FIELD WORK NOTICE",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5253624.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5253622.1"
     }
    ],
    "lat": 30.419668,
@@ -5231,7 +5231,7 @@
     {
      "date": "2026-11-13",
      "subject": "C6BC69 - TASK # 3 - FIELD NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257812.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257855.1"
     },
     {
      "date": "2026-11-09",
@@ -5514,7 +5514,7 @@
     {
      "date": "2026-11-02",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250809.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250837.1"
     },
     {
      "date": "2026-11-02",
@@ -6409,27 +6409,6 @@
    "lon": -81.808831
   },
   {
-   "id": "8628334",
-   "name": "BP #609",
-   "address": "2766 RIFLE RANGE RD 140 N RIFLE RANGE RD",
-   "city": "WINTER HAVEN",
-   "county": "POLK",
-   "documents": [
-    {
-     "date": "2026-11-01",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250612.1"
-    },
-    {
-     "date": "2026-11-01",
-     "subject": "C6BC40 - TASK # 4 - FIELDWORK NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250611.1"
-    }
-   ],
-   "lat": 27.963133,
-   "lon": -81.726987
-  },
-  {
    "id": "8838752",
    "name": "CITGO-WASHINGTON #189",
    "address": "20500 HWY 27",
@@ -6549,7 +6528,7 @@
     {
      "date": "2026-11-13",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257711.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257687.1"
     },
     {
      "date": "2026-11-13",
@@ -6874,7 +6853,7 @@
     {
      "date": "2026-11-02",
      "subject": "FIELD EVENT NOTIFICATION - FIELDWORK NOTIFICATION ONLY",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250356.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5250345.1"
     }
    ],
    "lat": 29.867664,
@@ -7278,7 +7257,7 @@
     {
      "date": "2026-11-04",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252058.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252100.1"
     },
     {
      "date": "2026-11-04",
