@@ -1,39 +1,40 @@
 {
- "generated": "2026-11-18T18:04:30+00:00",
+ "generated": "2026-11-19T18:17:06+00:00",
  "window": {
-  "from": "2026-11-04",
-  "to": "2026-11-18"
+  "from": "2026-11-05",
+  "to": "2026-11-19"
  },
- "facility_count": 320,
- "document_count": 618,
+ "facility_count": 318,
+ "document_count": 629,
  "missing_coordinates": 0,
  "by_county": {
-  "DUVAL": 40,
-  "PINELLAS": 23,
+  "DUVAL": 39,
   "HILLSBOROUGH": 21,
-  "BROWARD": 17,
-  "LEON": 16,
-  "MARION": 15,
+  "PINELLAS": 21,
+  "LEON": 17,
+  "BROWARD": 16,
+  "MARION": 16,
   "ORANGE": 15,
-  "POLK": 14,
-  "PALM BEACH": 11,
-  "JACKSON": 8,
-  "MIAMI-DADE": 8,
+  "PALM BEACH": 12,
+  "POLK": 12,
+  "JACKSON": 9,
+  "LAKE": 9,
   "LEE": 7,
-  "MANATEE": 7,
-  "VOLUSIA": 7,
-  "ESCAMBIA": 6,
-  "LAKE": 6,
+  "MIAMI-DADE": 7,
+  "BREVARD": 6,
+  "VOLUSIA": 6,
+  "ALACHUA": 5,
   "BAY": 5,
-  "BREVARD": 5,
+  "COLUMBIA": 5,
+  "ESCAMBIA": 5,
   "HIGHLANDS": 5,
   "INDIAN RIVER": 5,
-  "ALACHUA": 4,
-  "COLUMBIA": 4,
+  "MANATEE": 5,
+  "ST. JOHNS": 5,
   "MONROE": 4,
-  "ST. JOHNS": 4,
   "ST. LUCIE": 4,
   "TAYLOR": 4,
+  "BAKER": 3,
   "CLAY": 3,
   "COLLIER": 3,
   "GADSDEN": 3,
@@ -41,28 +42,25 @@
   "HERNANDO": 3,
   "MARTIN": 3,
   "OKALOOSA": 3,
+  "PASCO": 3,
   "SEMINOLE": 3,
-  "BAKER": 2,
-  "DIXIE": 2,
   "MADISON": 2,
-  "OKEECHOBEE": 2,
-  "PASCO": 2,
   "SANTA ROSA": 2,
   "WAKULLA": 2,
   "WASHINGTON": 2,
+  "BRADFORD": 1,
   "CALHOUN": 1,
   "CITRUS": 1,
   "DESOTO": 1,
+  "DIXIE": 1,
   "FLAGLER": 1,
-  "GULF": 1,
   "HAMILTON": 1,
   "HOLMES": 1,
-  "JEFFERSON": 1,
   "LEVY": 1,
   "NASSAU": 1,
+  "OKEECHOBEE": 1,
   "OSCEOLA": 1,
   "PUTNAM": 1,
-  "SUWANNEE": 1,
   "UNION": 1,
   "WALTON": 1
  },
@@ -87,6 +85,27 @@
    ],
    "lat": 29.666543,
    "lon": -82.331049
+  },
+  {
+   "id": "8500090",
+   "name": "COASTAL MART #402",
+   "address": "14880 NW US HWY 441",
+   "city": "ALACHUA",
+   "county": "ALACHUA",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260399.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C716BB - TASK # 4 - FIELD NOTIFICATION EMAIL",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260398.1"
+    }
+   ],
+   "lat": 29.791872,
+   "lon": -82.489223
   },
   {
    "id": "9401874",
@@ -204,6 +223,32 @@
    "lon": -82.123836
   },
   {
+   "id": "8842321",
+   "name": "TEXTILE TOWN",
+   "address": "I-10 & HWY 228",
+   "city": "MACCLENNY",
+   "county": "BAKER",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260065.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C832AA - TASK # 2 - FIELD ACTIVITIES NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260064.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260164.1"
+    }
+   ],
+   "lat": 30.264267,
+   "lon": -82.105051
+  },
+  {
    "id": "8735464",
    "name": "BILLS ONE STOP",
    "address": "2211 N HWY 231",
@@ -309,6 +354,27 @@
    "lon": -85.70809
   },
   {
+   "id": "8842071",
+   "name": "STARKE CITY-POWER PLT",
+   "address": "CHURCH & CALL STS",
+   "city": "STARKE",
+   "county": "BRADFORD",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260755.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C7DAF9 - TASK # 1 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260754.1"
+    }
+   ],
+   "lat": 29.942965,
+   "lon": -82.10684
+  },
+  {
    "id": "8626185",
    "name": "BREVARD CNTY-DISTRICT #2 ROAD & BRIDGE",
    "address": "555 CONE RD",
@@ -370,6 +436,27 @@
    ],
    "lat": 28.095375,
    "lon": -80.631079
+  },
+  {
+   "id": "8500862",
+   "name": "OCEANVIEW AUTOMOTIVE SERVICES",
+   "address": "1896 US HWY A1A N",
+   "city": "INDIAN HARBOUR BEACH",
+   "county": "BREVARD",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260033.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C6D529 - TASK # 4 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260032.1"
+    }
+   ],
+   "lat": 28.153079,
+   "lon": -80.584905
   },
   {
    "id": "8501183",
@@ -662,22 +749,6 @@
    "lon": -80.132944
   },
   {
-   "id": "8501737",
-   "name": "SUNSHINE #523",
-   "address": "2031 W SAMPLE RD",
-   "city": "DEERFIELD BEACH",
-   "county": "BROWARD",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "FIELD NOTIFICATION (PO_C66C88 TASK 5 GW SAMPLING)",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252415.1"
-    }
-   ],
-   "lat": 26.275109,
-   "lon": -80.151453
-  },
-  {
    "id": "8501698",
    "name": "SUPER STOP DANIA",
    "address": "321 N FEDERAL HWY",
@@ -730,16 +801,6 @@
      "date": "2026-11-09",
      "subject": "C7184C - TASK # 3 - FIELD NOTICE",
      "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254701.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252803.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C7184C - TASK # 3 - FIELD NOTICE",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252802.1"
     }
    ],
    "lat": 26.267689,
@@ -946,6 +1007,27 @@
    "lon": -82.638807
   },
   {
+   "id": "9805498",
+   "name": "MARGARETTE BELLE THOMSON PROPERTY-BOEGER T SIGNS",
+   "address": "812 S MARION AVE",
+   "city": "LAKE CITY",
+   "county": "COLUMBIA",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260058.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C8360F - TASK # 2 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260057.1"
+    }
+   ],
+   "lat": 30.178963,
+   "lon": -82.637122
+  },
+  {
    "id": "8503459",
    "name": "SHELL STATION (FORMER)",
    "address": "1176 NW MAIN BLVD",
@@ -1028,27 +1110,6 @@
    ],
    "lat": 29.636199,
    "lon": -83.131404
-  },
-  {
-   "id": "8506582",
-   "name": "JIFFY STORE #1554",
-   "address": "15958 SE  HWY 19",
-   "city": "CROSS CITY",
-   "county": "DIXIE",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252809.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C6965A - TASK # 3 - JIFFY 1554 GWS FIELD NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252808.1"
-    }
-   ],
-   "lat": 29.636672,
-   "lon": -83.135559
   },
   {
    "id": "8506905",
@@ -1158,6 +1219,11 @@
    "county": "DUVAL",
    "documents": [
     {
+     "date": "2026-11-17",
+     "subject": "",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260156.1"
+    },
+    {
      "date": "2026-11-16",
      "subject": "",
      "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259556.1"
@@ -1191,6 +1257,22 @@
    ],
    "lat": 30.297101,
    "lon": -81.730931
+  },
+  {
+   "id": "8521319",
+   "name": "CIRCLE K #2721210",
+   "address": "1031 BEACH BLVD",
+   "city": "JACKSONVILLE BEACH",
+   "county": "DUVAL",
+   "documents": [
+    {
+     "date": "2026-11-17",
+     "subject": "",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260161.1"
+    }
+   ],
+   "lat": 30.288506,
+   "lon": -81.40005
   },
   {
    "id": "8629580",
@@ -1295,6 +1377,21 @@
    "county": "DUVAL",
    "documents": [
     {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260215.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C6D30C - TASK # 3 - FIELDWORK NOTIFICATION ONLY",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260214.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260540.1"
+    },
+    {
      "date": "2026-11-11",
      "subject": "PRP SUBMISSION CONFIRMATION",
      "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5256784.1"
@@ -1383,22 +1480,6 @@
    "lon": -81.544155
   },
   {
-   "id": "9814420",
-   "name": "GATE#1223",
-   "address": "11350 BAYMEADOWS RD",
-   "city": "JACKSONVILLE",
-   "county": "DUVAL",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252294.1"
-    }
-   ],
-   "lat": 30.216633,
-   "lon": -81.509745
-  },
-  {
    "id": "8506654",
    "name": "GIANT #355",
    "address": "5002 NORMANDY BLVD",
@@ -1429,7 +1510,7 @@
     {
      "date": "2026-11-17",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259860.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259849.1"
     },
     {
      "date": "2026-11-17",
@@ -1578,27 +1659,6 @@
    "lon": -81.657123
   },
   {
-   "id": "8507109",
-   "name": "MEDIAN FOOD MART LLC",
-   "address": "1003 EDGEWOOD AVE N",
-   "city": "JACKSONVILLE",
-   "county": "DUVAL",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252232.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C7FB16 - TASK # 2 - FIELD EVENT CANCELATION NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252233.1"
-    }
-   ],
-   "lat": 30.336867,
-   "lon": -81.730729
-  },
-  {
    "id": "8507314",
    "name": "OLD DOMINION FREIGHT LINE INC",
    "address": "2500 COMMONWEALTH AVE",
@@ -1727,6 +1787,16 @@
    "county": "DUVAL",
    "documents": [
     {
+     "date": "2026-11-17",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260744.1"
+    },
+    {
+     "date": "2026-11-17",
+     "subject": "C6FBA5 - TASK # 3 - FIELD ACTIVITY NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260745.1"
+    },
+    {
      "date": "2026-11-11",
      "subject": "PRP SUBMISSION CONFIRMATION",
      "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5256406.1"
@@ -1747,6 +1817,11 @@
    "city": "JACKSONVILLE",
    "county": "DUVAL",
    "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260553.1"
+    },
     {
      "date": "2026-11-11",
      "subject": "PRP SUBMISSION CONFIRMATION",
@@ -1795,6 +1870,11 @@
    "county": "DUVAL",
    "documents": [
     {
+     "date": "2026-11-18",
+     "subject": "",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260168.1"
+    },
+    {
      "date": "2026-11-11",
      "subject": "",
      "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257768.1"
@@ -1839,27 +1919,6 @@
    ],
    "lat": 30.309485,
    "lon": -81.733064
-  },
-  {
-   "id": "8507841",
-   "name": "8360 N CENTURY LLC",
-   "address": "8360 N CENTURY BLVD",
-   "city": "CENTURY",
-   "county": "ESCAMBIA",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5253081.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C67716 - TASK # 5 - FIELD EVENT NOTICE",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5253080.1"
-    }
-   ],
-   "lat": 30.980851,
-   "lon": -87.257683
   },
   {
    "id": "8626986",
@@ -1979,9 +2038,9 @@
    "county": "FLAGLER",
    "documents": [
     {
-     "date": "2026-11-04",
+     "date": "2026-11-17",
      "subject": "FIELD WORK NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5253005.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260613.1"
     }
    ],
    "lat": 29.552056,
@@ -2069,27 +2128,6 @@
    ],
    "lat": 30.704629,
    "lon": -84.848432
-  },
-  {
-   "id": "8508593",
-   "name": "KIRK'S MERCANTILE",
-   "address": "HWY 71 & WIMICO DR",
-   "city": "WHITE CITY",
-   "county": "GULF",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252500.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C82A41 - TASK # 2 - +UPDATED- FIELD ACITIVTY NOTIFICATION-GWS",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252499.1"
-    }
-   ],
-   "lat": 29.881963,
-   "lon": -85.221072
   },
   {
    "id": "8508647",
@@ -2213,20 +2251,25 @@
    "lon": -82.426331
   },
   {
-   "id": "8626273",
-   "name": "PEPSI-COLA BOTTLING CO OF TAMPA",
-   "address": "490 CHAMPION DRIVE",
-   "city": "BROOKSVILLE",
+   "id": "8508851",
+   "name": "SHELL-SPRINGHILL #312",
+   "address": "2109 COMMERCIAL WAY",
+   "city": "SPRING HILL",
    "county": "HERNANDO",
    "documents": [
     {
-     "date": "2026-11-04",
-     "subject": "FWN REC'D 11/4/2026 FOR 11/11/2026-O&M",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252504.1"
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260100.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C7C8EF - TASK # 2 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260099.1"
     }
    ],
-   "lat": 28.549469,
-   "lon": -82.372347
+   "lat": 28.462265,
+   "lon": -82.626702
   },
   {
    "id": "8519610",
@@ -2478,6 +2521,16 @@
    "county": "HILLSBOROUGH",
    "documents": [
     {
+     "date": "2026-11-17",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259990.1"
+    },
+    {
+     "date": "2026-11-17",
+     "subject": "C731E5 - TASK # 2 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259989.1"
+    },
+    {
      "date": "2026-11-09",
      "subject": "PRP SUBMISSION CONFIRMATION",
      "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5255378.1"
@@ -2490,6 +2543,22 @@
    ],
    "lat": 27.985449,
    "lon": -82.434587
+  },
+  {
+   "id": "9202211",
+   "name": "GALLO DE ORO",
+   "address": "2901 W COLUMBUS DR",
+   "city": "TAMPA",
+   "county": "HILLSBOROUGH",
+   "documents": [
+    {
+     "date": "2026-11-17",
+     "subject": "NOTICE OF FIELD ACTIVITIES",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260420.1"
+    }
+   ],
+   "lat": 27.966905,
+   "lon": -82.489162
   },
   {
    "id": "ERIC_18564",
@@ -2560,27 +2629,6 @@
    "lon": -82.483157
   },
   {
-   "id": "8626340",
-   "name": "MCCLENDON OIL CO INC",
-   "address": "1409 22ND ST",
-   "city": "TAMPA",
-   "county": "HILLSBOROUGH",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252421.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C66831 - TASK # 4 - T4 FIELD NOTIFICATION - WELL INSTALL, SOIL SAMPLING, GW SAMPLING",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252420.1"
-    }
-   ],
-   "lat": 27.939261,
-   "lon": -82.434848
-  },
-  {
    "id": "8625002",
    "name": "MOBIL #02-CVB",
    "address": "7620 W HILLSBOROUGH AVE",
@@ -2602,6 +2650,27 @@
    "lon": -82.56659
   },
   {
+   "id": "9300955",
+   "name": "POLKS COUNTRY CORNER",
+   "address": "2501 MEDULLA RD",
+   "city": "PLANT CITY",
+   "county": "HILLSBOROUGH",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260145.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C747CC - TASK # 3 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260144.1"
+    }
+   ],
+   "lat": 27.981795,
+   "lon": -82.078787
+  },
+  {
    "id": "8625620",
    "name": "REEVES TRANSPORTATION CO",
    "address": "6920 E 14TH AVE",
@@ -2621,27 +2690,6 @@
    ],
    "lat": 27.965327,
    "lon": -82.377464
-  },
-  {
-   "id": "8736669",
-   "name": "RLN  FUEL CORP",
-   "address": "2803 E HILLSBOROUGH AVE",
-   "city": "TAMPA",
-   "county": "HILLSBOROUGH",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252877.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C7ECC9 - TASK # 2 - FIELDWORK NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252878.1"
-    }
-   ],
-   "lat": 27.99566,
-   "lon": -82.428614
   },
   {
    "id": "8625569",
@@ -3053,6 +3101,27 @@
    "lon": -85.218599
   },
   {
+   "id": "8520361",
+   "name": "STEELE CITY GROCERY",
+   "address": "2184 HWY 231",
+   "city": "COTTONDALE",
+   "county": "JACKSON",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260290.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C7365B - TASK # 3 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260289.1"
+    }
+   ],
+   "lat": 30.724838,
+   "lon": -85.387415
+  },
+  {
    "id": "8943857",
    "name": "UTTERMOST MIRACLE CHURCH",
    "address": "US 73 N & US 231",
@@ -3072,22 +3141,6 @@
    ],
    "lat": 30.842625,
    "lon": -85.345693
-  },
-  {
-   "id": "8737036",
-   "name": "JP'S #231",
-   "address": "1200 W WASHINGTON ST",
-   "city": "MONTICELLO",
-   "county": "JEFFERSON",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "TASK 2 FIELDWORK NOTIFICATION PO# C7B845",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252701.1"
-    }
-   ],
-   "lat": 30.545225,
-   "lon": -83.881539
   },
   {
    "id": "8509817",
@@ -3127,6 +3180,27 @@
    "lon": -81.775433
   },
   {
+   "id": "9701284",
+   "name": "DECORATING DEN",
+   "address": "1031 WEST MAIN ST",
+   "city": "LEESBURG",
+   "county": "LAKE",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260688.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C7E3F3 - TASK # 2 - FN ONLY",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260687.1"
+    }
+   ],
+   "lat": 28.810993,
+   "lon": -81.882257
+  },
+  {
    "id": "8510074",
    "name": "DIXIE OIL & GAS CO",
    "address": "1311 WEST MAIN STREET",
@@ -3141,6 +3215,43 @@
    ],
    "lat": 28.81006,
    "lon": -81.885074
+  },
+  {
+   "id": "9401346",
+   "name": "EUSTIS FRUIT CO",
+   "address": "300 MORIN ST",
+   "city": "EUSTIS",
+   "county": "LAKE",
+   "documents": [
+    {
+     "date": "2026-11-13",
+     "subject": "T4 FIELD NOTIFICATION EMAIL - PO C6F933",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260185.1"
+    }
+   ],
+   "lat": 28.849532,
+   "lon": -81.686919
+  },
+  {
+   "id": "8509890",
+   "name": "JOY FOODS #423",
+   "address": "1301 E MAIN ST",
+   "city": "LEESBURG",
+   "county": "LAKE",
+   "documents": [
+    {
+     "date": "2026-11-16",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260790.1"
+    },
+    {
+     "date": "2026-11-16",
+     "subject": "C802DA - TASK # 2 - NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260789.1"
+    }
+   ],
+   "lat": 28.81126,
+   "lon": -81.856674
   },
   {
    "id": "8510036",
@@ -3217,6 +3328,16 @@
    "city": "CAPE CORAL",
    "county": "LEE",
    "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260153.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C75605 - TASK # 3 - FIELD NOTIFICATION- GWS",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260154.1"
+    },
     {
      "date": "2026-11-16",
      "subject": "PRP SUBMISSION CONFIRMATION",
@@ -3606,22 +3727,6 @@
    "lon": -84.303494
   },
   {
-   "id": "8510349",
-   "name": "SHELL STATION-MAGNOLIA",
-   "address": "1313 APALACHEE PKY",
-   "city": "TALLAHASSEE",
-   "county": "LEON",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "C759B5 - TK2 SOIL RESAMPLE FWN",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252334.1"
-    }
-   ],
-   "lat": 30.436191,
-   "lon": -84.261437
-  },
-  {
    "id": "8510258",
    "name": "SHELL-FOUR POINT",
    "address": "3520 S MONROE ST",
@@ -3643,6 +3748,27 @@
    "lon": -84.280795
   },
   {
+   "id": "8510407",
+   "name": "SUNRISE FOOD MART #257",
+   "address": "1417 S MONROE ST",
+   "city": "TALLAHASSEE",
+   "county": "LEON",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260650.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C739BD - TASK # 7 - FIELD NOTIFICATION EMAIL",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260649.1"
+    }
+   ],
+   "lat": 30.429961,
+   "lon": -84.280462
+  },
+  {
    "id": "8736670",
    "name": "SUNRISE FOOD MART 244",
    "address": "1703 MAHAN DR",
@@ -3662,6 +3788,27 @@
    ],
    "lat": 30.448924,
    "lon": -84.257701
+  },
+  {
+   "id": "8510453",
+   "name": "TEXACO LUBE CENTER",
+   "address": "1745 N MONROE ST",
+   "city": "TALLAHASSEE",
+   "county": "LEON",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260758.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C7C4DF - TASK # 2 - FIELDWORK NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260757.1"
+    }
+   ],
+   "lat": 30.463372,
+   "lon": -84.281946
   },
   {
    "id": "9201423",
@@ -3759,22 +3906,6 @@
    "lon": -82.544084
   },
   {
-   "id": "8510782",
-   "name": "AMOCO-WESTFIELD #018",
-   "address": "2925 MANATEE AVE W",
-   "city": "BRADENTON",
-   "county": "MANATEE",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "FWN 11.4.26 FOR 11.11.26, GROUNDWATER SAMPLING",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252221.1"
-    }
-   ],
-   "lat": 27.495469,
-   "lon": -82.591376
-  },
-  {
    "id": "8624306",
    "name": "BP SERVICE CTR",
    "address": "4573 14TH ST W",
@@ -3794,22 +3925,6 @@
    ],
    "lat": 27.458455,
    "lon": -82.575003
-  },
-  {
-   "id": "8624239",
-   "name": "LYNCH FUEL COMPANY LLC",
-   "address": "878 12TH ST E",
-   "city": "BRADENTON",
-   "county": "MANATEE",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "FWN-TK5-418624239",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257163.1"
-    }
-   ],
-   "lat": 27.492657,
-   "lon": -82.549676
   },
   {
    "id": "8510779",
@@ -3854,6 +3969,27 @@
    "lon": -82.546294
   },
   {
+   "id": "9101218",
+   "name": "3 POINT BUILDING",
+   "address": "805 S MAGNOLIA AVE",
+   "city": "OCALA",
+   "county": "MARION",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260792.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C6551B - TASK # 2 - FIELDWORK NOTIFICATION 6",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260791.1"
+    }
+   ],
+   "lat": 29.180264,
+   "lon": -82.136815
+  },
+  {
    "id": "8518799",
    "name": "ACTICARB TAILORED PRODUCTS",
    "address": "551 N US HWY 41",
@@ -3873,22 +4009,6 @@
    ],
    "lat": 29.192393,
    "lon": -82.436952
-  },
-  {
-   "id": "8944331",
-   "name": "BP-HUDDLE #894",
-   "address": "331 NW 20TH ST",
-   "city": "OCALA",
-   "county": "MARION",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "FIELD NOTIFICATION, TASK 2 SOIL & GROUNDWATER SAMPLING, PO C817D6",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5256695.1"
-    }
-   ],
-   "lat": 29.207233,
-   "lon": -82.140294
   },
   {
    "id": "8511320",
@@ -3942,16 +4062,6 @@
      "date": "2026-11-11",
      "subject": "C7F227 - TASK # 2 - FIELDWORK NOTIFICATION REVISION",
      "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5256651.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252262.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C7F227 - TASK # 2 - FIELDWORK NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252261.1"
     }
    ],
    "lat": 29.197301,
@@ -4010,16 +4120,6 @@
      "date": "2026-11-17",
      "subject": "C7D17B - TASK # 2 - WELL DEVELOPMENT NOTICE",
      "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259331.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252440.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C7D17B - TASK # 2 - DEVELOPMENT RESCHEDULE NOTICE",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252439.1"
     }
    ],
    "lat": 29.187311,
@@ -4040,6 +4140,22 @@
    ],
    "lat": 29.188042,
    "lon": -82.140668
+  },
+  {
+   "id": "8511260",
+   "name": "HESS STATION",
+   "address": "2015 N PINE AVE",
+   "city": "OCALA",
+   "county": "MARION",
+   "documents": [
+    {
+     "date": "2026-11-17",
+     "subject": "TASK 3 FIELDWORK NOTIFICATION PO# C729CE",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260093.1"
+    }
+   ],
+   "lat": 29.206813,
+   "lon": -82.141666
   },
   {
    "id": "8511007",
@@ -4282,22 +4398,6 @@
    ],
    "lat": 25.736833,
    "lon": -80.245626
-  },
-  {
-   "id": "8506168",
-   "name": "MOBIL STATION",
-   "address": "9401 HARDING AVE",
-   "city": "SURFSIDE",
-   "county": "MIAMI-DADE",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "FIELD WORK NOTICE - GWS",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5253911.1"
-    }
-   ],
-   "lat": 25.883605,
-   "lon": -80.12303
   },
   {
    "id": "8503825",
@@ -4573,27 +4673,6 @@
    "lon": -86.592211
   },
   {
-   "id": "8512495",
-   "name": "ROCKET FUEL PARROTT AVE",
-   "address": "511 S PARROTT AVE",
-   "city": "OKEECHOBEE",
-   "county": "OKEECHOBEE",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252473.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C6AD63 - TASK # 4 - FIELD NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252474.1"
-    }
-   ],
-   "lat": 27.238805,
-   "lon": -80.829563
-  },
-  {
    "id": "9102339",
    "name": "WHERRELL AUTO PARTS INC",
    "address": "107 SW 2ND ST",
@@ -4734,12 +4813,12 @@
     {
      "date": "2026-11-13",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257856.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257813.1"
     },
     {
      "date": "2026-11-13",
      "subject": "C6BC69 - TASK # 3 - FIELD NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257855.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257812.1"
     },
     {
      "date": "2026-11-09",
@@ -4866,25 +4945,20 @@
    "lon": -81.552111
   },
   {
-   "id": "8513194",
-   "name": "SA PARTNERSHIP LLC",
-   "address": "1635 W OAK RIDGE RD",
+   "id": "8513290",
+   "name": "PRESTIGE JET",
+   "address": "4800 E COLONIAL DR",
    "city": "ORLANDO",
    "county": "ORANGE",
    "documents": [
     {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252438.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "GC187-171A - TASK # 2 - FIELD NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252437.1"
+     "date": "2026-11-18",
+     "subject": "PO-C7C05B-TK3-FWN-48/8513290",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260485.1"
     }
    ],
-   "lat": 28.473036,
-   "lon": -81.400576
+   "lat": 28.551986,
+   "lon": -81.324892
   },
   {
    "id": "8512796",
@@ -4957,6 +5031,16 @@
    "county": "OSCEOLA",
    "documents": [
     {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260044.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C70979 - TASK # 3 - FORMER JOES - TASK 3 NOTIFICATIONS - GW",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260043.1"
+    },
+    {
      "date": "2026-11-13",
      "subject": "PRP SUBMISSION CONFIRMATION",
      "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257681.1"
@@ -4995,6 +5079,27 @@
    ],
    "lat": 26.678369,
    "lon": -80.095625
+  },
+  {
+   "id": "8514354",
+   "name": "EXXON-LIGHTHOUSE",
+   "address": "9730 A1A",
+   "city": "PALM BEACH GARDENS",
+   "county": "PALM BEACH",
+   "documents": [
+    {
+     "date": "2026-11-17",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260025.1"
+    },
+    {
+     "date": "2026-11-17",
+     "subject": "C69A0E - TASK # 7 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260026.1"
+    }
+   ],
+   "lat": 26.819275,
+   "lon": -80.082994
   },
   {
    "id": "ERIC_10687",
@@ -5097,6 +5202,27 @@
    "lon": -80.672033
   },
   {
+   "id": "8623287",
+   "name": "SHELL-A & E #465",
+   "address": "5899 N FEDERAL HWY",
+   "city": "BOCA RATON",
+   "county": "PALM BEACH",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260107.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C7F249 - TASK # 2 - FIELD WORK NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260108.1"
+    }
+   ],
+   "lat": 26.401635,
+   "lon": -80.076872
+  },
+  {
    "id": "8513981",
    "name": "SOUTH BAY FOOD CTR",
    "address": "110 US HWY 27",
@@ -5139,27 +5265,6 @@
    "lon": -80.2028
   },
   {
-   "id": "8943740",
-   "name": "TEXACO STATION(FORMER)",
-   "address": "195 US HWY 27 S",
-   "city": "SOUTH BAY",
-   "county": "PALM BEACH",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252759.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C73DC7 - TASK # 1 - FIELD NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252758.1"
-    }
-   ],
-   "lat": 26.662688,
-   "lon": -80.714997
-  },
-  {
    "id": "8514777",
    "name": "THCW LAND HOLDINGS INC",
    "address": "2405 OKEECHOBEE BLVD",
@@ -5195,6 +5300,27 @@
    ],
    "lat": 26.696549,
    "lon": -80.65122
+  },
+  {
+   "id": "8515056",
+   "name": "BP-MARINE PARKWAY",
+   "address": "5029 US HWY 19 S",
+   "city": "NEW PORT RICHEY",
+   "county": "PASCO",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260113.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C71FE1 - TASK # 2 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260112.1"
+    }
+   ],
+   "lat": 28.232717,
+   "lon": -82.730303
   },
   {
    "id": "8519830",
@@ -5311,22 +5437,6 @@
    ],
    "lat": 27.923739,
    "lon": -82.796604
-  },
-  {
-   "id": "9101578",
-   "name": "BARNETT BANK/WALGREEN",
-   "address": "1604 S MISSOURI AVE",
-   "city": "CLEARWATER",
-   "county": "PINELLAS",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "C6FBA1 -TK3 UPDATED PT FWN",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252708.1"
-    }
-   ],
-   "lat": 27.938616,
-   "lon": -82.787759
   },
   {
    "id": "8623385",
@@ -5559,22 +5669,6 @@
    ],
    "lat": 27.766593,
    "lon": -82.699478
-  },
-  {
-   "id": "8515474",
-   "name": "PICK KWIK FOOD STORE #28",
-   "address": "4900 E BAY DR",
-   "city": "CLEARWATER",
-   "county": "PINELLAS",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "TASK 2 FIELD NOTIFICATION - SOIL AND GW SAMPLING - 528515474 - PO C807F6",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252493.1"
-    }
-   ],
-   "lat": 27.91666,
-   "lon": -82.736156
   },
   {
    "id": "8515184",
@@ -5838,7 +5932,7 @@
     {
      "date": "2026-11-13",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257684.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257707.1"
     },
     {
      "date": "2026-11-13",
@@ -5865,22 +5959,6 @@
    "lon": -81.898453
   },
   {
-   "id": "8623547",
-   "name": "MOBIL-FORE #628",
-   "address": "2100 W MEMORIAL BLVD",
-   "city": "LAKELAND",
-   "county": "POLK",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "FIELDWORK NOTIFICATION FOR 11/10-11/2026 53/8623547",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5253086.1"
-    }
-   ],
-   "lat": 28.054292,
-   "lon": -81.99042
-  },
-  {
    "id": "8623459",
    "name": "MOSAIC FERTILIZER LLC - NORALYN MINE",
    "address": "3301 NORALYN MINE RD",
@@ -5895,37 +5973,6 @@
    ],
    "lat": 27.847505,
    "lon": -81.863059
-  },
-  {
-   "id": "8623751",
-   "name": "ONE STOP",
-   "address": "2998 HWY 17-92 WEST",
-   "city": "HAINES CITY",
-   "county": "POLK",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252400.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C8205B - TASK # 2 - UPDATE FIELD NOTICE",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252392.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C8205B - TASK # 2 - FIELD NOTIFICATION- PREDRILL",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252385.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C8205B - TASK # 2 - FIELD NOTIFICATION, DRILLING AND GWS",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252399.1"
-    }
-   ],
-   "lat": 28.107013,
-   "lon": -81.659533
   },
   {
    "id": "8624020",
@@ -6187,6 +6234,11 @@
    "county": "ST. JOHNS",
    "documents": [
     {
+     "date": "2026-11-18",
+     "subject": "",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260541.1"
+    },
+    {
      "date": "2026-11-17",
      "subject": "PRP SUBMISSION CONFIRMATION",
      "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259355.1"
@@ -6204,6 +6256,32 @@
    ],
    "lat": 29.82633,
    "lon": -81.377801
+  },
+  {
+   "id": "8515941",
+   "name": "SUNSHINE FOOD MART #602",
+   "address": "2450 I-95 & HWY 16",
+   "city": "SAINT AUGUSTINE",
+   "county": "ST. JOHNS",
+   "documents": [
+    {
+     "date": "2026-11-18",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260447.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "C820C8 - TASK # 2 - FIELD WORK NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260446.1"
+    },
+    {
+     "date": "2026-11-18",
+     "subject": "",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5260561.1"
+    }
+   ],
+   "lat": 29.918643,
+   "lon": -81.413696
   },
   {
    "id": "8732887",
@@ -6288,27 +6366,6 @@
    ],
    "lat": 27.472711,
    "lon": -80.350028
-  },
-  {
-   "id": "8517032",
-   "name": "JIM HINTON OIL CO",
-   "address": "204 HAINES ST NE",
-   "city": "LIVE OAK",
-   "county": "SUWANNEE",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252427.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C6FDAE - TASK # 4 - FIELD NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252426.1"
-    }
-   ],
-   "lat": 30.296696,
-   "lon": -82.982251
   },
   {
    "id": "8517141",
@@ -6508,32 +6565,6 @@
    ],
    "lat": 29.211141,
    "lon": -81.044357
-  },
-  {
-   "id": "8517538",
-   "name": "SHELL - FIRST COAST ENERGY #3088",
-   "address": "840 N DIXIE FWY",
-   "city": "NEW SMYRNA BEACH",
-   "county": "VOLUSIA",
-   "documents": [
-    {
-     "date": "2026-11-04",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252058.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C820BF TASK 2 FIELD WORK NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5256735.1"
-    },
-    {
-     "date": "2026-11-04",
-     "subject": "C820BF - TASK # 2 - FIELD NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5252099.1"
-    }
-   ],
-   "lat": 29.037921,
-   "lon": -80.932987
   },
   {
    "id": "8517346",
