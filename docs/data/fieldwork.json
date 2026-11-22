@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-21T16:47:34+00:00",
+ "generated": "2026-11-22T17:10:16+00:00",
  "window": {
-  "from": "2026-11-07",
-  "to": "2026-11-21"
+  "from": "2026-11-08",
+  "to": "2026-11-22"
  },
- "facility_count": 350,
- "document_count": 683,
+ "facility_count": 348,
+ "document_count": 679,
  "missing_coordinates": 0,
  "by_county": {
   "DUVAL": 42,
@@ -15,9 +15,9 @@
   "LEON": 18,
   "ORANGE": 16,
   "MARION": 14,
-  "BAY": 11,
   "PALM BEACH": 11,
   "POLK": 10,
+  "BAY": 9,
   "JACKSON": 9,
   "MIAMI-DADE": 9,
   "ESCAMBIA": 8,
@@ -311,27 +311,6 @@
    "lon": -85.63462
   },
   {
-   "id": "9401015",
-   "name": "C & K CAR CARE",
-   "address": "101 W 6TH ST",
-   "city": "PANAMA CITY",
-   "county": "BAY",
-   "documents": [
-    {
-     "date": "2026-11-07",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254590.1"
-    },
-    {
-     "date": "2026-11-07",
-     "subject": "C7096B - TASK # 5 - 039401015-FN",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254589.1"
-    }
-   ],
-   "lat": 30.158521,
-   "lon": -85.66185
-  },
-  {
    "id": "8518778",
    "name": "DALIA FOOD MART",
    "address": "822 HWY 22 A S",
@@ -346,27 +325,6 @@
    ],
    "lat": 30.131228,
    "lon": -85.599801
-  },
-  {
-   "id": "8500536",
-   "name": "EXPRESS LANE #741 - FL0002",
-   "address": "806 THOMAS DR",
-   "city": "PANAMA CITY BEACH",
-   "county": "BAY",
-   "documents": [
-    {
-     "date": "2026-11-07",
-     "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254592.1"
-    },
-    {
-     "date": "2026-11-07",
-     "subject": "C75612 - TASK # 2 - 038500536-FN",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254591.1"
-    }
-   ],
-   "lat": 30.178297,
-   "lon": -85.760631
   },
   {
    "id": "8500417",
@@ -1595,7 +1553,7 @@
     {
      "date": "2026-11-17",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259692.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259684.1"
     },
     {
      "date": "2026-11-17",
@@ -1631,12 +1589,12 @@
     {
      "date": "2026-11-11",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5256784.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5256789.1"
     },
     {
      "date": "2026-11-11",
      "subject": "FIELD WORK NOTICE - FIELDWORK NOTIFICATION ONLY",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5256788.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5256783.1"
     },
     {
      "date": "2026-11-09",
@@ -1763,7 +1721,7 @@
     {
      "date": "2026-11-17",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259860.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259849.1"
     },
     {
      "date": "2026-11-17",
@@ -2410,7 +2368,7 @@
     {
      "date": "2026-11-16",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5258923.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259104.1"
     },
     {
      "date": "2026-11-16",
@@ -5231,12 +5189,12 @@
     {
      "date": "2026-11-13",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257813.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257856.1"
     },
     {
      "date": "2026-11-13",
      "subject": "C6BC69 - TASK # 3 - FIELD NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257812.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257855.1"
     },
     {
      "date": "2026-11-09",
@@ -6035,12 +5993,12 @@
     {
      "date": "2026-11-16",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5258518.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5258400.1"
     },
     {
      "date": "2026-11-16",
      "subject": "C75CF2 - TASK # 5 - FIELD NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5258399.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5258517.1"
     }
    ],
    "lat": 27.80263,
