@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-22T17:10:16+00:00",
+ "generated": "2026-11-23T21:25:45+00:00",
  "window": {
-  "from": "2026-11-08",
-  "to": "2026-11-22"
+  "from": "2026-11-09",
+  "to": "2026-11-23"
  },
- "facility_count": 348,
- "document_count": 679,
+ "facility_count": 354,
+ "document_count": 691,
  "missing_coordinates": 0,
  "by_county": {
-  "DUVAL": 42,
-  "PINELLAS": 26,
+  "DUVAL": 43,
+  "PINELLAS": 28,
   "HILLSBOROUGH": 20,
   "BROWARD": 19,
   "LEON": 18,
-  "ORANGE": 16,
+  "ORANGE": 17,
   "MARION": 14,
   "PALM BEACH": 11,
   "POLK": 10,
@@ -21,18 +21,18 @@
   "JACKSON": 9,
   "MIAMI-DADE": 9,
   "ESCAMBIA": 8,
+  "HIGHLANDS": 8,
   "LAKE": 8,
   "LEE": 8,
   "VOLUSIA": 8,
-  "HIGHLANDS": 7,
   "ST. JOHNS": 7,
   "ALACHUA": 6,
   "BREVARD": 6,
+  "COLLIER": 5,
   "COLUMBIA": 5,
   "INDIAN RIVER": 5,
   "MANATEE": 5,
   "ST. LUCIE": 5,
-  "COLLIER": 4,
   "MARTIN": 4,
   "OKALOOSA": 4,
   "SANTA ROSA": 4,
@@ -159,7 +159,7 @@
     {
      "date": "2026-11-19",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5261176.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5261202.1"
     },
     {
      "date": "2026-11-19",
@@ -1128,6 +1128,27 @@
    "lon": -81.797604
   },
   {
+   "id": "8518316",
+   "name": "UOOLIGAN GAS STATION INC",
+   "address": "861 BALD EAGLE DR",
+   "city": "MARCO ISLAND",
+   "county": "COLLIER",
+   "documents": [
+    {
+     "date": "2026-11-23",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5262571.1"
+    },
+    {
+     "date": "2026-11-23",
+     "subject": "C640F3 - TASK # 5 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5262572.1"
+    }
+   ],
+   "lat": 25.959612,
+   "lon": -81.726702
+  },
+  {
    "id": "8503362",
    "name": "CHEVRON I-75 & 90 W",
    "address": "3282 US 90 W",
@@ -1589,7 +1610,7 @@
     {
      "date": "2026-11-11",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5256789.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5256784.1"
     },
     {
      "date": "2026-11-11",
@@ -1726,7 +1747,7 @@
     {
      "date": "2026-11-17",
      "subject": "C7D9E2 - TASK # 4 - FIELD WORK NOTICE",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259848.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259858.1"
     }
    ],
    "lat": 30.296457,
@@ -1810,6 +1831,27 @@
    ],
    "lat": 30.297344,
    "lon": -81.702766
+  },
+  {
+   "id": "8629555",
+   "name": "LOWES #1842",
+   "address": "8054 PHILIPS HWY",
+   "city": "JACKSONVILLE",
+   "county": "DUVAL",
+   "documents": [
+    {
+     "date": "2026-11-23",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5262568.1"
+    },
+    {
+     "date": "2026-11-23",
+     "subject": "C80A98 - TASK # 1 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5262567.1"
+    }
+   ],
+   "lat": 30.222827,
+   "lon": -81.589215
   },
   {
    "id": "8625956",
@@ -2126,7 +2168,7 @@
     {
      "date": "2026-11-09",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254644.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5254763.1"
     },
     {
      "date": "2026-11-09",
@@ -2368,7 +2410,7 @@
     {
      "date": "2026-11-16",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5259104.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5258923.1"
     },
     {
      "date": "2026-11-16",
@@ -2615,6 +2657,27 @@
    ],
    "lat": 27.499157,
    "lon": -81.444518
+  },
+  {
+   "id": "8519693",
+   "name": "SOUTH AVON PC #122",
+   "address": "201 US HWY 27 S",
+   "city": "AVON PARK",
+   "county": "HIGHLANDS",
+   "documents": [
+    {
+     "date": "2026-11-23",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5262565.1"
+    },
+    {
+     "date": "2026-11-23",
+     "subject": "C7E867 - TASK # 2 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5262564.1"
+    }
+   ],
+   "lat": 27.59364,
+   "lon": -81.513943
   },
   {
    "id": "8625482",
@@ -4363,7 +4426,7 @@
     {
      "date": "2026-11-16",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5258786.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5258317.1"
     },
     {
      "date": "2026-11-16",
@@ -5189,12 +5252,12 @@
     {
      "date": "2026-11-13",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257856.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257813.1"
     },
     {
      "date": "2026-11-13",
      "subject": "C6BC69 - TASK # 3 - FIELD NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257855.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257812.1"
     },
     {
      "date": "2026-11-09",
@@ -5321,6 +5384,27 @@
    "lon": -81.470328
   },
   {
+   "id": "9046956",
+   "name": "PARK RIDGE GROCERY",
+   "address": "3792 OLD WINTER GARDEN RD",
+   "city": "GOTHA",
+   "county": "ORANGE",
+   "documents": [
+    {
+     "date": "2026-11-23",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5262574.1"
+    },
+    {
+     "date": "2026-11-23",
+     "subject": "C7FA8B - TASK # 1 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5262573.1"
+    }
+   ],
+   "lat": 28.546519,
+   "lon": -81.523538
+  },
+  {
    "id": "8513290",
    "name": "PRESTIGE JET",
    "address": "4800 E COLONIAL DR",
@@ -5398,7 +5482,7 @@
     {
      "date": "2026-11-13",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257678.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257681.1"
     },
     {
      "date": "2026-11-13",
@@ -5815,6 +5899,27 @@
    "lon": -82.796604
   },
   {
+   "id": "9100377",
+   "name": "AVENTURA AT THE BAY",
+   "address": "10300 4TH ST N",
+   "city": "SAINT PETERSBURG",
+   "county": "PINELLAS",
+   "documents": [
+    {
+     "date": "2026-11-23",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5262570.1"
+    },
+    {
+     "date": "2026-11-23",
+     "subject": "C79C90 - TASK # 4 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5262569.1"
+    }
+   ],
+   "lat": 27.86667,
+   "lon": -82.640574
+  },
+  {
    "id": "8623385",
    "name": "CHEVRON FOOD MART",
    "address": "5405 DR MARTIN LUTHER KING JR ST N",
@@ -5834,6 +5939,27 @@
    ],
    "lat": 27.821468,
    "lon": -82.646477
+  },
+  {
+   "id": "8628434",
+   "name": "CIRCLE K #2709786",
+   "address": "10595 66TH ST N",
+   "city": "PINELLAS PARK",
+   "county": "PINELLAS",
+   "documents": [
+    {
+     "date": "2026-11-23",
+     "subject": "PRP SUBMISSION CONFIRMATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5262576.1"
+    },
+    {
+     "date": "2026-11-23",
+     "subject": "C69C03 - TASK # 5 - FIELD NOTIFICATION",
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5262575.1"
+    }
+   ],
+   "lat": 27.867916,
+   "lon": -82.728425
   },
   {
    "id": "8515292",
@@ -5998,7 +6124,7 @@
     {
      "date": "2026-11-16",
      "subject": "C75CF2 - TASK # 5 - FIELD NOTIFICATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5258517.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5258399.1"
     }
    ],
    "lat": 27.80263,
@@ -6356,7 +6482,7 @@
     {
      "date": "2026-11-13",
      "subject": "PRP SUBMISSION CONFIRMATION",
-     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257684.1"
+     "link": "https://prodenv.dep.state.fl.us/DepStaging/api/dms/11.5257687.1"
     },
     {
      "date": "2026-11-13",
